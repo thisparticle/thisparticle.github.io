@@ -1,0 +1,68 @@
+- id: GEODE
+  title: "GEODE Dataset: Extending the Robustness of LiDAR SLAM to GEOmetrically DEgenerate Scenarios"
+  venue: Submitted for IJRR dataset paper, Under Review
+  description: "A comprehensive multi-LiDAR, multi-scenario dataset that extensively incorporates segments of real-world geometric degeneracy."
+  project_page: "https://geode.github.io"
+  github: PengYu-Team/GEODE
+  arxiv: 2402.18934
+  image: geode.jpg
+  authors:
+    - Zhiqiang
+    - Yuhua
+    - Dapeng
+    - Kelin
+    - Jin
+    - Xiangcheng
+    - Shipeng
+    - Ruilan
+    - Hongbo
+
+- id: RELEAD
+  title: "RELEAD: Resilient Localization with Enhanced LiDAR Odometry in Adverse Environments"
+  venue: ICRA, 2024
+  description: "A LiDAR-centric localization and mapping approach that enhances the accuracy and resilience of SLAM methods across diverse environments, particularly in scenarios with LiDAR degradation."
+  arxiv: 2402.18934
+  image: relead.png
+  authors:
+    - Zhiqiang
+    - Hongbo
+    - Yuhua
+    - Shipeng
+    - Dapeng
+    - Jin
+    - Weisong
+    - MingLiu
+
+- id: CoLRIO
+  title: "CoLRIO: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms"
+  venue: ICRA, 2024
+  description: "A centralized system to facilitate collaborative LiDAR-ranging-inertial state estimation, enabling robotic swarms to operate without the need for anchor deployment, and demonstrating significant enhancements in the accuracy of collaborative SLAM estimates."
+  project_page: "https://github.com/PengYu-Team/Co-LRIO"
+  github: PengYu-Team/Co-LRIO
+  arxiv: 2402.11790
+  image: CoLRIO.png
+  authors:
+    - Shipeng
+    - Hongbo
+    - Yuhua
+    - Dapeng
+    - Zhiqiang
+    - Jin
+    - Weisong
+    - MingLiu
+
+- id: DCL_SLAM
+  title: "DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm"
+  venue: IEEE Sensors Journal, 2024
+  description: "DCL-SLAM is presented, a front-end agnostic fully distributed collaborative Light Detection And Ranging SLAM framework to co-localize in an unknown environment with low information exchange and achieves higher accuracy and lower bandwidth than other state-of-the-art multirobot LiDAR SLAM systems."
+  project_page: "https://github.com/PengYu-Team/DCL-SLAM"
+  github: PengYu-Team/DCL-SLAM
+  arxiv: 2210.11978
+  image: dcl_slam.jpg
+  authors:
+    - Shipeng
+    - Yuhua
+    - Zhiqiang
+    - Jin
+    - Hongbo
+    - MingLiu
