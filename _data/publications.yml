@@ -1,6 +1,6 @@
 - id: GEODE
-  title: "GEODE Dataset: Extending the Robustness of LiDAR SLAM to GEOmetrically DEgenerate Scenarios"
-  venue: Submitted for IJRR dataset paper, Under Review
+  title: "Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios"
+  venue: Under Review
   description: "A comprehensive multi-LiDAR, multi-scenario dataset that extensively incorporates segments of real-world geometric degeneracy."
   project_page: "https://geode.github.io"
   github: PengYu-Team/GEODE
