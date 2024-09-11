@@ -3,19 +3,19 @@
   venue: Under Review
   description: "A comprehensive multi-LiDAR, multi-scenario dataset that extensively incorporates segments of real-world geometric degeneracy."
   project_page: "https://thisparticle.github.io/geode/"
-  github: PengYu-Team/GEODE
-  arxiv: 2402.18934
+  github: PengYu-Team/GEODE_dataset
+  arxiv: 2409.04961
   image: geode.jpg
   authors:
     - Zhiqiang
     - Yuhua
     - Dapeng
+    - Xuebin
+    - Hongbo
+    - Xiangcheng
     - Kelin
     - Jin
-    - Xiangcheng
     - Shipeng
-    - Ruilan
-    - Hongbo
 
 - id: RELEAD
   title: "RELEAD: Resilient Localization with Enhanced LiDAR Odometry in Adverse Environments"
