@@ -20,10 +20,9 @@
 #     We present [_HyperNeRF_](https://hypernerf.github.io), which uses ideas
 #     from level set methods to model topologically changing scenes.
 
-# - date: Nov 2020
-#   description: >-
-#     We present [_Nerfies_](https://nerfies.github.io), a way to turn
-#     casually captured selfie videos into free-viewpoint visualizations.
+- date: October 2024
+  description: >-
+    We present [S3E](https://pengyu-team.github.io/S3E/), A multi-Robot multimodal dataset for collaborative SLAM.
 
 - date: January 2024
   description: >-
