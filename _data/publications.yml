@@ -17,6 +17,24 @@
     - Kelin
     - Peng
 
+- id: S3E
+  title: "S3E: A Multi-Robot Multimodal Dataset for Collaborative SLAM"
+  venue: IEEE Robotics and Automation Letters (RA-L)
+  description: "The S3E dataset offers a comprehensive collection of multi-robot, multimodal data, capturing diverse cooperative trajectories in various environments, both outdoor and indoor."
+  project_page: "https://pengyu-team.github.io/S3E/"
+  github: PengYu-Team/S3E
+  arxiv: 2210.13723
+  image: s3e.jpg
+  authors:
+    - Dapeng
+    - Yuhua
+    - Shipeng
+    - Zhiqiang
+    - Qiming
+    - Hongbo
+    - Jin
+    - Jun
+
 - id: RELEAD
   title: "RELEAD: Resilient Localization with Enhanced LiDAR Odometry in Adverse Environments"
   venue: ICRA, 2024
