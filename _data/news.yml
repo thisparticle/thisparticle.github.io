@@ -10,15 +10,15 @@
 #     [_HyperNeRF_](https://hypernerf.github.io) has been accepted to SIGGRAPH Asia
 #     2021. We have also released the [code](https://github.com/google/hypernerf).
 
-# - date: Jul 2021
-#   description: >-
-#     [_Nerfies_](https://nerfies.github.io) has been accepted to ICCV 2021 as an oral
-#     presentation.
+- date: Mar 2025
+  description: >-
+    [GEODE](https://thisparticle.github.io/geode/), our paper on heterogeneous LiDAR dataset for benchmarking robust localization,
+    has benn accepted to The International Journal of Robotics Research (IJRR).
 
-# - date: Jun 2021
-#   description: >-
-#     We present [_HyperNeRF_](https://hypernerf.github.io), which uses ideas
-#     from level set methods to model topologically changing scenes.
+- date: February 2025
+  description: >-
+    [CaRtGS](https://dapengfeng.github.io/cartgs/), our paper on gaussian splatting SLAM,
+    has benn accepted to IEEE Robotics and Automation Letters (RA-L).
 
 - date: October 2024
   description: >-

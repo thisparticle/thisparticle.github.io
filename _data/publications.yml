@@ -1,6 +1,6 @@
 - id: GEODE
   title: "Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios"
-  venue: Under Review
+  venue: IJRR
   description: "A comprehensive multi-LiDAR, multi-scenario dataset that extensively incorporates segments of real-world geometric degeneracy."
   project_page: "https://thisparticle.github.io/geode/"
   github: PengYu-Team/GEODE_dataset
